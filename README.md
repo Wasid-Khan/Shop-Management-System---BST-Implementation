@@ -28,6 +28,7 @@ The system user is a POS admin where the admin will issue and save data of items
 | Admin | • Insert, delete, update, read the records • Search record by id • Exit |
 
 #### Detail Description for Each Use Case
+![Flowchart](usecase_diagram.png)
 
 The system has the following main use cases:
 
