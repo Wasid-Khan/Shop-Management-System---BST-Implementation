@@ -37,7 +37,7 @@ The system has the following main use cases:
 | Search Record | Admin can search Item record by Id                                      |
 
 ### Flow-Chart
-![Flowchart](path/to/your/flowchart.png)
+![Flowchart](flowchart.png)
 
 
 ## Conclusion
