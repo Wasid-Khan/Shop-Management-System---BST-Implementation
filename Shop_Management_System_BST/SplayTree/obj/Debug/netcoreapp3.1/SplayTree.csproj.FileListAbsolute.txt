@@ -1,0 +1,14 @@
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.exe
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.deps.json
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.runtimeconfig.json
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.runtimeconfig.dev.json
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.dll
+C:\Users\webde\source\repos\Solution2\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.pdb
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.csproj.AssemblyReference.cache
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.AssemblyInfoInputs.cache
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.AssemblyInfo.cs
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.csproj.CoreCompileInputs.cache
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.dll
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.pdb
+C:\Users\webde\source\repos\Solution2\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.genruntimeconfig.cache

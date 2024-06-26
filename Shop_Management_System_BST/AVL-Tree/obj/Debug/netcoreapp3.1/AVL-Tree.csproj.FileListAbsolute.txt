@@ -1,0 +1,14 @@
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.exe
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.deps.json
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.runtimeconfig.json
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.runtimeconfig.dev.json
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.dll
+C:\Users\webde\source\repos\Solution2\AVL-Tree\bin\Debug\netcoreapp3.1\AVL-Tree.pdb
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.csproj.AssemblyReference.cache
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.AssemblyInfoInputs.cache
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.AssemblyInfo.cs
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.csproj.CoreCompileInputs.cache
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.dll
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.pdb
+C:\Users\webde\source\repos\Solution2\AVL-Tree\obj\Debug\netcoreapp3.1\AVL-Tree.genruntimeconfig.cache

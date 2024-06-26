@@ -1,0 +1,14 @@
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\webde\source\repos\Solution2\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\webde\source\repos\Solution2\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache
