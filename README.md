@@ -36,6 +36,8 @@ The system has the following main use cases:
 | CRUD       | The admin can Create/Add, read/view, update, delete the item records in the database. |
 | Search Record | Admin can search Item record by Id                                      |
 
+![Flowchart](flowchart.png)
+
 ### Flow-Chart
 ![Flowchart](flowchart.png)
 
